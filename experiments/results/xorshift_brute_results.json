@@ -1,0 +1,249 @@
+{
+  "xorshift_r14_133": {
+    "n_vars": 2558,
+    "n_clauses": 9128,
+    "n_seeds_found": 1,
+    "seeds_valid": [
+      2165109229
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r14_154": {
+    "n_vars": 2401,
+    "n_clauses": 8626,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      240247875,
+      2466046806,
+      3383783590
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r14_158": {
+    "n_vars": 2401,
+    "n_clauses": 8626,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      208881714,
+      2914620559,
+      4016514323
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r14_165": {
+    "n_vars": 2401,
+    "n_clauses": 8626,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      1070413753,
+      2436577367,
+      4022569926
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r14_176": {
+    "n_vars": 2244,
+    "n_clauses": 8124,
+    "n_seeds_found": 1,
+    "seeds_valid": [
+      42347963
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_105": {
+    "n_vars": 2337,
+    "n_clauses": 8496,
+    "n_seeds_found": 1,
+    "seeds_valid": [
+      2559683248
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_119": {
+    "n_vars": 2651,
+    "n_clauses": 9500,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      750412887,
+      4239418319
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_129": {
+    "n_vars": 2651,
+    "n_clauses": 9500,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      1049860713,
+      3504039205
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_177": {
+    "n_vars": 2023,
+    "n_clauses": 7492,
+    "n_seeds_found": 1,
+    "seeds_valid": [
+      91196424
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_37": {
+    "n_vars": 2651,
+    "n_clauses": 9500,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      2258576795,
+      2310665936,
+      3791626360
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_40": {
+    "n_vars": 2651,
+    "n_clauses": 9500,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      3140303402,
+      3893670674
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_41": {
+    "n_vars": 2651,
+    "n_clauses": 9500,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      924868836,
+      1149946705,
+      2541498811
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r15_47": {
+    "n_vars": 2337,
+    "n_clauses": 8496,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      691770733,
+      1882277587
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_110": {
+    "n_vars": 2430,
+    "n_clauses": 8868,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      896596199,
+      1005616819
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_136": {
+    "n_vars": 2901,
+    "n_clauses": 10374,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      1841590741,
+      4142332179
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_16": {
+    "n_vars": 2587,
+    "n_clauses": 9370,
+    "n_seeds_found": 2,
+    "seeds_valid": [
+      1234371770,
+      1333575779
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_171": {
+    "n_vars": 2744,
+    "n_clauses": 9872,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      1961083788,
+      2057308978,
+      3911442053
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_181": {
+    "n_vars": 2430,
+    "n_clauses": 8868,
+    "n_seeds_found": 1,
+    "seeds_valid": [
+      3387454251
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_188": {
+    "n_vars": 2430,
+    "n_clauses": 8868,
+    "n_seeds_found": 3,
+    "seeds_valid": [
+      423732903,
+      1403025851,
+      1881074016
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_21": {
+    "n_vars": 3215,
+    "n_clauses": 11378,
+    "n_seeds_found": 4,
+    "seeds_valid": [
+      808282664,
+      1241626961,
+      3975363987,
+      4167587133
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_87": {
+    "n_vars": 2587,
+    "n_clauses": 9370,
+    "n_seeds_found": 4,
+    "seeds_valid": [
+      1153780761,
+      3439866697,
+      3626490302,
+      4124735812
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  },
+  "xorshift_r16_98": {
+    "n_vars": 2587,
+    "n_clauses": 9370,
+    "n_seeds_found": 1,
+    "seeds_valid": [
+      2175304606
+    ],
+    "seeds_invalid": [],
+    "verdict": "SAT"
+  }
+}

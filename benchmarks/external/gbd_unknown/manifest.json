@@ -1,0 +1,94 @@
+{
+ "source": "Global Benchmark Database (benchmark-database.de), result=unknown, family=xor-shifting, track=submissions_2026",
+ "download": "https://benchmark-database.de/file/<hash>?context=cnf",
+ "instances": [
+  {
+   "hash": "0013ea7f979ef32c464a6d59a3331748",
+   "file": "xorshift_r16_87.sanitized.cnf.xz"
+  },
+  {
+   "hash": "00814867cf07384544639767652767d1",
+   "file": "xorshift_r16_110.sanitized.cnf.xz"
+  },
+  {
+   "hash": "008c2670b0a19954d745ab938c40886c",
+   "file": "xorshift_r15_119.sanitized.cnf.xz"
+  },
+  {
+   "hash": "01504faff9a94f9884f960b79665c70e",
+   "file": "xorshift_r16_188.sanitized.cnf.xz"
+  },
+  {
+   "hash": "016acfbf82d9d568e3c150bafc97b7bd",
+   "file": "xorshift_r15_37.sanitized.cnf.xz"
+  },
+  {
+   "hash": "021c276a57e52b34a856b22b137bf4e1",
+   "file": "xorshift_r16_136.sanitized.cnf.xz"
+  },
+  {
+   "hash": "025b0e5f9c13d80502929ba23cafc4af",
+   "file": "xorshift_r16_21.sanitized.cnf.xz"
+  },
+  {
+   "hash": "02ff94614432f5b73b0343bcefe4933c",
+   "file": "xorshift_r14_176.sanitized.cnf.xz"
+  },
+  {
+   "hash": "032a2aa949a2a42dca456a1a6478416d",
+   "file": "xorshift_r15_40.sanitized.cnf.xz"
+  },
+  {
+   "hash": "038abe9dd89044ee316d98dcb1c246c8",
+   "file": "xorshift_r14_133.sanitized.cnf.xz"
+  },
+  {
+   "hash": "045f02ca093d50a6b5cbb0947024ebc6",
+   "file": "xorshift_r14_165.sanitized.cnf.xz"
+  },
+  {
+   "hash": "04ae66971e2b05230bf17f67f4c09d84",
+   "file": "xorshift_r15_177.sanitized.cnf.xz"
+  },
+  {
+   "hash": "05b17ff3b26cd80d62639363464613a7",
+   "file": "xorshift_r15_129.sanitized.cnf.xz"
+  },
+  {
+   "hash": "05c0c9917caadf29b76fe9d176b6ca22",
+   "file": "xorshift_r15_47.sanitized.cnf.xz"
+  },
+  {
+   "hash": "063858bc0ecbb7e9bb59508deaa4568d",
+   "file": "xorshift_r15_105.sanitized.cnf.xz"
+  },
+  {
+   "hash": "063ac4c42a259ae5b5dd3e94f41a7053",
+   "file": "xorshift_r16_16.sanitized.cnf.xz"
+  },
+  {
+   "hash": "065cddac7994dedb5bda9ca4d39aee2f",
+   "file": "xorshift_r16_98.sanitized.cnf.xz"
+  },
+  {
+   "hash": "06a594b8c0cb7eed9e6d476b2d31180b",
+   "file": "xorshift_r16_181.sanitized.cnf.xz"
+  },
+  {
+   "hash": "06dfed9efdde6eb19711ee62ebcf6972",
+   "file": "xorshift_r16_171.sanitized.cnf.xz"
+  },
+  {
+   "hash": "07597d4d25d2c3398af942046297c6b5",
+   "file": "xorshift_r14_154.sanitized.cnf.xz"
+  },
+  {
+   "hash": "078371daba8fb98cde69c38eb250cb8b",
+   "file": "xorshift_r15_41.sanitized.cnf.xz"
+  },
+  {
+   "hash": "078c5c775b3c2f217491da579d251262",
+   "file": "xorshift_r14_158.sanitized.cnf.xz"
+  }
+ ]
+}

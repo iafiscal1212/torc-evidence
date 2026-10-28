@@ -1,0 +1,157 @@
+{
+  "4col240_9_9.shuffled.cnf": {
+    "n_vars": 480,
+    "n_clauses": 4326,
+    "units": 6,
+    "structure": "4col-style: 240 v\u00e9rtices 2 bits",
+    "n_vertices": 240,
+    "n_edges": 1080,
+    "degree": {
+      "min": 9,
+      "max": 9,
+      "mean": 9.0
+    },
+    "precolored_vertices": 3,
+    "k_colors_named": 4,
+    "naming_consistent": true,
+    "mc_steps": 1415593,
+    "dsatur_nodes": 725,
+    "dsatur_exhausted": true,
+    "mrv_dpll_unsat_nodes": 453,
+    "mrv_dpll_confirms_unsat": true,
+    "cadical_original_cnf": "unknown",
+    "verdict": "UNSAT a nivel de k-coloring (agotamiento por DSATUR+MRV-DPLL; Cadical no confirma en el presupuesto \u2014 ver gbd_cadical_results.json)",
+    "wall_s": 35.96
+  },
+  "5col180_15_3.shuffled.cnf": {
+    "n_vars": 540,
+    "n_clauses": 7298,
+    "units": 9,
+    "structure": "5col-style: 180 v\u00e9rtices 3 bits",
+    "n_vertices": 180,
+    "n_edges": 1350,
+    "degree": {
+      "min": 15,
+      "max": 15,
+      "mean": 15.0
+    },
+    "precolored_vertices": 3,
+    "k_colors_named": 5,
+    "naming_consistent": true,
+    "mc_steps": 1150945,
+    "dsatur_nodes": 369,
+    "dsatur_exhausted": true,
+    "mrv_dpll_unsat_nodes": 391,
+    "mrv_dpll_confirms_unsat": true,
+    "cadical_original_cnf": "unknown",
+    "verdict": "UNSAT a nivel de k-coloring (agotamiento por DSATUR+MRV-DPLL; Cadical no confirma en el presupuesto \u2014 ver gbd_cadical_results.json)",
+    "wall_s": 30.86
+  },
+  "ER_500_10_2.apx_2_DS-ST.cnf": {
+    "n_vars": 1002,
+    "n_clauses": 38698,
+    "encoding": "apx_2 (in/aux)",
+    "n_args": 501,
+    "n_attacks": 12398,
+    "pinned_in": 0,
+    "pinned_out": 1,
+    "verdict": "SIN TESTIGO por b\u00fasqueda estructural (no implica UNSAT)",
+    "wall_s": 90.0
+  },
+  "WS_400_24_70_10.apx_2_DS-ST.cnf": {
+    "n_vars": 800,
+    "n_clauses": 15601,
+    "encoding": "apx_2 (in/aux)",
+    "n_args": 400,
+    "n_attacks": 4800,
+    "pinned_in": 0,
+    "pinned_out": 1,
+    "verdict": "SIN TESTIGO por b\u00fasqueda estructural (no implica UNSAT)",
+    "wall_s": 90.0
+  },
+  "stb_767_201.apx_2_DC-ST.cnf": {
+    "n_vars": 1534,
+    "n_clauses": 30797,
+    "encoding": "apx_2 (in/aux)",
+    "n_args": 767,
+    "n_attacks": 9553,
+    "pinned_in": 5,
+    "pinned_out": 0,
+    "verdict": "SIN TESTIGO por b\u00fasqueda estructural (no implica UNSAT)",
+    "wall_s": 90.0
+  },
+  "st_890_86_9_572.normalised.cnf": {
+    "n_vars": 2670,
+    "n_clauses": 79728,
+    "encoding": "normalised (in/out/undec)",
+    "n_args": 890,
+    "n_attacks": 37125,
+    "pinned_in": 4,
+    "pinned_out": 143,
+    "verdict": "SIN TESTIGO por b\u00fasqueda estructural (no implica UNSAT)",
+    "wall_s": 90.0
+  },
+  "x9-11023.sat.sanitized.cnf": {
+    "n_vertices_graph": 110,
+    "n_constraints": 440,
+    "n_vars": 550,
+    "n_edges_graph": 550,
+    "dlx_nodes": 491520,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.07
+  },
+  "x9-11026.sat.sanitized.cnf": {
+    "n_vertices_graph": 110,
+    "n_constraints": 440,
+    "n_vars": 550,
+    "n_edges_graph": 550,
+    "dlx_nodes": 479232,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.25
+  },
+  "x9-11064.sat.sanitized.cnf": {
+    "n_vertices_graph": 110,
+    "n_constraints": 440,
+    "n_vars": 550,
+    "n_edges_graph": 550,
+    "dlx_nodes": 434176,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.04
+  },
+  "x9-11092.sat.sanitized.cnf": {
+    "n_vertices_graph": 110,
+    "n_constraints": 440,
+    "n_vars": 550,
+    "n_edges_graph": 550,
+    "dlx_nodes": 471040,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.18
+  },
+  "x9-12028.sat.sanitized.cnf": {
+    "n_vertices_graph": 120,
+    "n_constraints": 480,
+    "n_vars": 600,
+    "n_edges_graph": 600,
+    "dlx_nodes": 421888,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.17
+  },
+  "x9-12038.sat.sanitized.cnf": {
+    "n_vertices_graph": 120,
+    "n_constraints": 480,
+    "n_vars": 600,
+    "n_edges_graph": 600,
+    "dlx_nodes": 417792,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.19
+  },
+  "x9-12073.sat.sanitized.cnf": {
+    "n_vertices_graph": 120,
+    "n_constraints": 480,
+    "n_vars": 600,
+    "n_edges_graph": 600,
+    "dlx_nodes": 409600,
+    "verdict": "SIN TESTIGO (no implica UNSAT)",
+    "wall_s": 60.32
+  }
+}
