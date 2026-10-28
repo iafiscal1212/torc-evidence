@@ -55,3 +55,12 @@ All Rights Reserved — Carmen Esteban / IAFISCAL & PARTNERS
 (caresment@gmail.com). Free for academic research and education;
 commercial use requires a written license. Patent application pending
 before the Spanish Patent and Trademark Office (OEPM).
+
+## Update (2026-10-28): 6 more decided instances (29 total)
+
+- 5 hamiltonian instances (`x9-11026`, `x9-11064`, `x9-11092`, `x9-12038`,
+  `x9-12073`): **SAT**, witness models in
+  `experiments/results/gbd_witness_x9-*.model`, all re-validated with
+  `validate_model` against the original CNF.
+- agile `bench_12179.smt2.cnf`: **SAT**, model with 878,946 literals
+  (`experiments/results/gbd_witness_bench_12179.smt2.model`), validated.
