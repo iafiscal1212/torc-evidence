@@ -92,3 +92,13 @@ verification:
 - **CAB(nos6) <= 336** (was [328,337]): k=337 would embed nos6 into a
   degree-2 cycle, but nos6 has degree 4 (`experiments/cabp_nos6_ub336.py`).
 Full analysis in `experiments/results/CABP_REPORT.md`.
+
+## Update (2026-10-29): tightened anti-bandwidth bounds
+
+- **CAB(can_445) <= 109** (was 111): k=111 UNSAT by two solvers, and
+  k=110 UNSAT by a complete cube-and-conquer over all 168 cubes.
+- **CAB(nos6) <= 333** (was 336): new executable certificate via
+  multiplier/folding (k=334 would give bw(nos6) <= 14, but the grid
+  contains P15xP15 with bw >= 15 — contradiction).
+Verification scripts in `experiments/` of the main repo, full report in
+`experiments/results/CABP_REPORT.md`.
