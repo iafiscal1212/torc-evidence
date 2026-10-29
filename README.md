@@ -82,3 +82,13 @@ verification, no tolerances. MVRoundRobin is certified UNSAT in ~1s by
 this detector. Anti-bandwidth instances are decoded exactly but honestly
 return UNKNOWN (NP-hard anti-bandwidth number, open in the literature).
 Tests: `tests/test_design_detector.py` (9 tests), suite 783 passed.
+
+## Update (2026-10-29): new anti-bandwidth upper bounds
+
+Two new mathematical results in cyclic anti-bandwidth, with executable
+verification:
+- **CAB(can_445) <= 111** (was [87,120]): verified omega=4 clique bound
+  (4k <= 445) in `experiments/cabp_clique_bound.py`.
+- **CAB(nos6) <= 336** (was [328,337]): k=337 would embed nos6 into a
+  degree-2 cycle, but nos6 has degree 4 (`experiments/cabp_nos6_ub336.py`).
+Full analysis in `experiments/results/CABP_REPORT.md`.
