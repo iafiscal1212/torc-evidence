@@ -64,3 +64,11 @@ before the Spanish Patent and Trademark Office (OEPM).
   `validate_model` against the original CNF.
 - agile `bench_12179.smt2.cnf`: **SAT**, model with 878,946 literals
   (`experiments/results/gbd_witness_bench_12179.smt2.model`), validated.
+
+## Update (2026-10-29): MVRoundRobin — UNSAT by pigeonhole (30 total)
+
+`MVRoundRobin_n14_d10_v4`: full round-robin of 14 teams in only 10 days.
+**UNSAT by design, not by a solver.** Two mechanically verified arguments:
+91 matches in 40 slots (91 > 40), and 13 days needed vs 10 available
+(13 > 10). Proof in `experiments/results/MVR_DESIGN_PROOF.md`,
+verification script `experiments/gbd_mvr_decode.py` (all checks pass).
