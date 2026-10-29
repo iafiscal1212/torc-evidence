@@ -72,3 +72,13 @@ before the Spanish Patent and Trademark Office (OEPM).
 91 matches in 40 slots (91 > 40), and 13 days needed vs 10 available
 (13 > 10). Proof in `experiments/results/MVR_DESIGN_PROOF.md`,
 verification script `experiments/gbd_mvr_decode.py` (all checks pass).
+
+## Update (2026-10-29): DesignDetector in the engine
+
+The pigeonhole proof of MVRoundRobin is now a native detector in
+`check()`: `torc_sat/detectors/design.py` certifies design-theoretic
+pigeonhole arguments (slot injection and team-days) with full clause-set
+verification, no tolerances. MVRoundRobin is certified UNSAT in ~1s by
+this detector. Anti-bandwidth instances are decoded exactly but honestly
+return UNKNOWN (NP-hard anti-bandwidth number, open in the literature).
+Tests: `tests/test_design_detector.py` (9 tests), suite 783 passed.
