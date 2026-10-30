@@ -102,3 +102,9 @@ Full analysis in `experiments/results/CABP_REPORT.md`.
   contains P15xP15 with bw >= 15 — contradiction).
 Verification scripts in `experiments/` of the main repo, full report in
 `experiments/results/CABP_REPORT.md`.
+
+## Paper: improved anti-bandwidth bounds
+
+`papers/ANTI-BANDWIDTH-BOUNDS.md` — technical note with the new upper
+bounds CAB(can_445) ≤ 109 and CAB(nos6) ≤ 330, their proofs and the
+verification scripts, published 2026-10-30 for priority.
