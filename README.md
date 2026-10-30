@@ -108,3 +108,9 @@ Verification scripts in `experiments/` of the main repo, full report in
 `papers/ANTI-BANDWIDTH-BOUNDS.md` — technical note with the new upper
 bounds CAB(can_445) ≤ 109 and CAB(nos6) ≤ 330, their proofs and the
 verification scripts, published 2026-10-30 for priority.
+
+## Publication on Zenodo (DOI and priority)
+
+The anti-bandwidth bounds paper is published on Zenodo:
+**https://doi.org/10.5281/zenodo.23786303** — with proofs and the
+verification scripts in this repository.
